@@ -1,4 +1,8 @@
-const BASE_CONHECIMENTO = [
+window.BASE_CONHECIMENTO = [
+    {
+        "id": 1,
+        "chamado": "Chamado nº 714936/2025",
+        ...
     {
         "id": 1,
         "chamado": "Chamado nº 714936/2025",
